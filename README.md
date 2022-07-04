@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Marine Remaud @mremaud
-- 👀 I’m interested in forest ecology and land surface modelling.
-- 🌱 I’m currently doing a post-doc at LSCE (France). I study Carbonyl Sulfide as a photosynthesis tracer in order to constrain the amount of carbon absorbed by plants at global scale. I am also working on the representation of forest disturbances in the ORCHIDEE Land Surface Model.
-- 📫 email: marine.remaud@lsce.ipsl.fr, marine.remaud@gmail.com
+- 👋 Hi, I’m Marine - welcome to my githubpage. 
+
+- 👀 I'm a scientist interested in climate change, carbon cycle and forest ecology.
+
+- 🌱 I started as a atmospheric modeller interested in the carbon cycle, and in recent years have become more interested in photosynthesis processes and forest ecology. For the last two years, I studied Carbonyl Sulfide as a photosynthesis tracer in order to constrain the amount of carbon absorbed by plants at global scale. I currently work on the modellisation of forest disturbances in the ORCHIDEE Land Surface Model.
+
+- 📫  If you have questions, requests, or ideas you can contact me using the email marine.remaud@gmail.com
 
 <!---
 mremaud/mremaud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
