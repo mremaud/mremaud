@@ -2,7 +2,7 @@
 
 - 👀 I'm a scientist interested in climate change, carbon cycle and land surface modelling.
 
-- 🌱 I started as a atmospheric modeller interested in the carbon cycle, and in recent years have become more interested in photosynthesis processes and forest ecology. For the last two years, I studied Carbonyl Sulfide as a photosynthesis tracer in order to constrain the amount of carbon absorbed by plants at global scale. I currently work on the modellisation of forest disturbances in the ORCHIDEE Land Surface Model.
+- 🌱 I started as a atmospheric modeller interested in the carbon cycle, and in recent years I have become more focused on photosynthesis processes and forest ecology. I studied Carbonyl Sulfide as a photosynthesis tracer in order to constrain the amount of carbon absorbed by plants at global scale. I currently work on the modellisation of forest disturbances in the ORCHIDEE Land Surface Model.
 
 - 📫  If you have questions, requests, or ideas you can contact me using the email marine.remaud@gmail.com
 
